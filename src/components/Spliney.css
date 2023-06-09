@@ -1,0 +1,15 @@
+.spline-viewer {
+    position: relative;
+    width: 100%;
+    height: 110vh;
+    overflow: hidden; /* this prevents any child elements from going outside the boundaries of this div */
+  }
+
+
+
+  @media (max-width: 768px) {
+    .spline-viewer {
+      width: 100%;
+      height: 50vh; /* adjust this value as necessary */
+    }
+  }
