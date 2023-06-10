@@ -12,7 +12,7 @@ const App = () => {
   return (
     <main>
         <Navbar/>
-        <SplineViewer url="https://prod.spline.design/3iaO4TdD8YhMvmbN/scene.splinecode" />
+        <SplineViewer />
         <Header />
         <Sketch />
         <Projects />

@@ -20,7 +20,7 @@ import './navbar.css'
                     </li>)
                 }
             </ul>
-            <button id='theme__icon'><IoIosColorPalette></IoIosColorPalette></button>
+            {/* <button id='theme__icon'><IoIosColorPalette></IoIosColorPalette></button> */}
         </div>
     </nav>
   )

@@ -5,7 +5,8 @@ import linkedin from './linkedin.png'
 import github from './githubicon.png'
 import { Canvas } from '@react-three/fiber';
 import './header.css'
-
+import Resume from './Zakariya Beg Resume (2).pdf'
+import {HiDownload} from 'react-icons/hi'
 
 
 const Header = () => {
@@ -26,6 +27,8 @@ const Header = () => {
     <Ball icon={linkedin} url="https://www.linkedin.com/in/zakariya-beg-74919a201/" />
     <Ball icon={github} url="https://github.com/zakariya23" />
 </div>
+<a href={Resume} download className='btn primary'>Download Resume <HiDownload/></a>
+<br></br>
     </header>
   )
 }
