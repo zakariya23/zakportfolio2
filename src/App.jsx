@@ -19,8 +19,7 @@ const App = () => {
         <Sketch />
         <About />
         <Sketch />
-        {/* <Contact />
-        <Footer /> */}
+        <Contact />
         <FloatingNav />
 
     </main>
