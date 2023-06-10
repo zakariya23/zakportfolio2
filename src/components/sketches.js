@@ -14,7 +14,7 @@ const Sketch = () => {
 
       p.setup = () => {
         // Setup the canvas
-        p.createCanvas(p.windowWidth, 400); // replace 300 with the height you want
+        p.createCanvas(p.windowWidth, p.windowHeight * 0.3); // replace 300 with the height you want
         gridTopX = p.width / 2;
         gridTopY = p.height / 2;
         p.strokeWeight(2);
