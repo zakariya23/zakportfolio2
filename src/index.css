@@ -10,12 +10,12 @@ body {
 
 @font-face {
     font-family: 'Demon Cubic Block F';
-    src: url('../public/assets/cubicblock_s.ttf') format('truetype');
+    src: url('../public/assets/Blox2.ttf') format('truetype');
   }
 
   @font-face {
     font-family: 'Demon Cubic Block T';
-    src: url('../public/assets/cubicblock_t.ttf') format('truetype');
+    src: url('../public/assets/Blox2.ttf') format('truetype');
   }
 
 

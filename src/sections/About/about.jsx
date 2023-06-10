@@ -4,7 +4,7 @@ import Card from '../../components/Card'
 const About = () => {
   return (
     <section id="about" className='about-container'>
-      <h2>experience</h2>
+      <h3>EXPERIENCE</h3>
       <div className="experience-container">
         <Card className="experience-card">
           <h4>Baker, Fortinos</h4>
@@ -28,7 +28,7 @@ const About = () => {
         </Card>
       </div>
         <br></br>
-      <h2>education</h2>
+      <h3>EDUCATION</h3>
       <div className="education-container">
         <Card className="education-card">
           <h4>Toronto Metropolitan University</h4>

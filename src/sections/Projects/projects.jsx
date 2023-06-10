@@ -31,8 +31,8 @@ const projectData = [
 
 const Projects = () => {
   return (
-    <section className="light">
-        <h3 className='projects-title'>projects</h3>
+    <section id='Project' className="light">
+        <h3 className='projects-title'>PROJECTS</h3>
         <br></br>
       <div className="projects-container">
         {projectData.map(project => <Project key={project.title} project={project} />)}
