@@ -20,7 +20,7 @@ const App = () => {
         <About />
         <Sketch />
         <Contact />
-        <FloatingNav />
+        {/* <FloatingNav /> */}
 
     </main>
   )
