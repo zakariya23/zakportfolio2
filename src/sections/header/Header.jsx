@@ -15,8 +15,7 @@ const Header = () => {
         <div className="container header__container">
             <div className="header__profile">
             </div>
-        </div>
-        <h3>
+            <h3>
             ZAKARIYA BEG
         </h3>
         <p>
@@ -29,6 +28,8 @@ const Header = () => {
 </div>
 <a href={Resume} download className='btn primary'>Download Resume <HiDownload/></a>
 <br></br>
+        </div>
+
     </header>
   )
 }

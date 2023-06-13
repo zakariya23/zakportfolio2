@@ -6,6 +6,10 @@ body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
+#Project > div {
+    width: 100%;
+}
+
 #canvas3d{
     height:100%;
     width: 100%;
