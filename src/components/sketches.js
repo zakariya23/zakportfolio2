@@ -32,6 +32,13 @@ const Sketch = () => {
         });
     };
 
+    p.windowResized = () => {
+      p.resizeCanvas(p.windowWidth, p.windowHeight * 0.3);
+      gridTopX = p.width / 2;
+      gridTopY = p.height / 2;
+    };
+
+
     p.mousePressed = () => {
         // Function to handle mouse click
         for(let i = cubes.length - 1; i >= 0; i--) {
