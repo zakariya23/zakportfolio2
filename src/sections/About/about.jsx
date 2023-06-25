@@ -7,11 +7,6 @@ const About = () => {
       <h3>EXPERIENCE</h3>
       <div className="experience-container">
         <Card className="experience-card">
-          <h4>Baker, Fortinos</h4>
-          <p>Oakville, Ontario (2017 - 2018)</p>
-          <p>Prepared and baked a variety of bakery products, maintained a clean and safe work environment.</p>
-        </Card>
-        <Card className="experience-card">
           <h4>Founder & Manager, Flipify</h4>
           <p>Toronto, Ontario (2017 - 2019)</p>
           <p>Started and managed a successful Discord-based business providing resale information for limited edition collectibles, handled customer service, billing, information sourcing, and community management.</p>
