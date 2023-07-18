@@ -23,7 +23,7 @@ const projectData = [
   {
     title: 'PlatePal',
     desc: 'Built a Yelp-inspired web application for users to search for businesses, view business pages, and leave reviews and ratings. This was a group project with Google Maps API and react places implementation.',
-    demo: 'https://plate-pal.onrender.com/',
+    demo: 'https://plate-pal-acn4.onrender.com/',
     github: 'https://github.com/zakariya23/Plate-Pal',
     image: platepalImage
   }
