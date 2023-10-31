@@ -5,7 +5,7 @@ import linkedin from './linkedin.png'
 import github from './githubicon.png'
 import { Canvas } from '@react-three/fiber';
 import './header.css'
-import Resume from './Zakariya_Beg_Resume_3.pdf'
+import Resume from './Zakariya Beg Resume FINAL FINAL (1).pdf'
 import {HiDownload} from 'react-icons/hi'
 
 
