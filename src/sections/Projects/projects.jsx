@@ -31,7 +31,7 @@ const projectData = [
   {
     title: 'Bl0ckify',
     desc: 'DigitizeETH revolutionizes the world of collectibles by transforming physical treasures into verifiable digital assets using NEXT.js, the thirdweb SDK, and Ethereums L2 technology; our groundbreaking platform not only won Ethereums Infinite Garden Prize at Hack the North 2023 but is also setting a new standard for the fusion of tangible and digital realms. Learn more about our journey and innovative tech stack: https://devpost.com/software/digitize-eth',
-    demo: 'www.bl0ckify.tech',
+    demo: 'https://www.bl0ckify.tech/',
     github: 'https://github.com/idrak888/digitize-eth/tree/main',
     image: blockifyimage
   }
